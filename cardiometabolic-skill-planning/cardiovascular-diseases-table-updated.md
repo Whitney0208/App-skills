@@ -1,6 +1,6 @@
 # 心血管类慢性疾病 Skill：指标更新对照表
 
-讨论稿，2026-09-30。本文件另存为更新对照版，保留[原中文汇报表](cardiovascular-diseases-table.md)。本表将 2026-09-23 的原汇报表及[原完整规划](cardiovascular-diseases.md)，与[更新后的指标范围](cardiovascular-indicators-updated.md)逐项对照，并加入[纵向管理及 App 接入要求](longitudinal-app-requirements.md)。原英文汇报表保留为[初版参考](cardiovascular-diseases-table-en.md)，尚未同步为本对照版。
+讨论稿，2026-09-30。本文件另存为更新对照版，保留[原中文汇报表](cardiovascular-diseases-table.md)。本表将 2026-09-23 的原汇报表及[原完整规划](cardiovascular-diseases.md)，与[更新后的指标范围](cardiovascular-indicators-updated.md)逐项对照，并加入[纵向管理及 App 接入要求](longitudinal-app-requirements.md)。对应的[英文更新对照版](cardiovascular-diseases-table-en-updated.md)已另存；[原英文汇报表](cardiovascular-diseases-table-en.md)继续保留。
 
 “原来”指初版已经明确写出的内容；“更新后”列出补充或细化，原有字段继续保留。原来只概括为专科报告的疾病，本次展开具体字段，不代表新增了这些疾病。表中项目是 App 拟支持保存的资料，不是每名患者的统一检查清单，也不代表功能或临床判断规则已经实现。
 
