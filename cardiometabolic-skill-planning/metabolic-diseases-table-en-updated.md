@@ -4,6 +4,12 @@ Working draft, 2026-09-30. This is a separate update to [the original English pr
 
 This document defines data the app should be able to receive and interpret. It does not describe features already implemented, a universal testing panel, or a clinically validated decision engine. Diagnostic evidence, routine monitoring, and investigations prompted by symptoms must remain separate. Test selection depends on diagnosis, subtype, age, pregnancy, treatment, and clinical context.
 
+## Longitudinal Management and App Integration
+
+The metabolic and cardiovascular Skills share the [longitudinal management and app integration requirements](longitudinal-app-requirements.md) (Chinese specification). Each condition must distinguish diagnostic records, repeated observations, and dated clinical or treatment events. The app retains patient history and supplies the assessment time, relevant observations, treatment changes, and effective goals to each Skill. Reusable Skill files contain knowledge and rules; patient history stays in app-managed storage.
+
+Trend interpretation requires comparable observations, explicit measurement times, an observation window, and adequate data coverage under a reviewed disease-specific rule. A single result supports a single-time-point interpretation. Missing or outdated data must remain visible. Outputs retain their source records, dates, rule versions, uncertainties, and follow-up status. New results update history without overwriting earlier observations. The current note audit establishes field coverage and traceability; cross-visit longitudinal behavior still requires separate implementation and validation.
+
 ## Population and Implementation Scope
 
 | Topic | Updated plan |
